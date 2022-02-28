@@ -1,0 +1,3 @@
+name: SpecterTab
+version: '${project.version}'
+main: com.lucas.spectertab.Main

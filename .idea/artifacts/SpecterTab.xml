@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SpecterTab">
+    <output-path>$PROJECT_DIR$/../Plugins</output-path>
+    <root id="archive" name="SpecterTab.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/../Dependencias/spigot-1.8.8-R0.1-SNAPSHOT-latest.jar" />
+    </root>
+  </artifact>
+</component>
